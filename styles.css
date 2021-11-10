@@ -1,0 +1,30 @@
+.form{
+    margin-top: 0px;
+}
+
+.body2{
+width: 99.5%;
+margin:0px;
+margin-top:0%;
+font-size: 100px;
+box-sizing: content-box;
+text-align: center;
+display: block;
+border:5px solid;
+}
+
+.small{
+    margin-top: -75px;
+    font-size:40px;
+}
+
+.var{
+    font-size: 30px;
+}
+
+.prestige{
+    font-size:20px;
+    border: 1px solid;
+    border-radius: 6px;
+    padding:5px 8px
+}
